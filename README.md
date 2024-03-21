@@ -36,3 +36,5 @@ _Software_: Jupyter Notebooks, Tableau, Canva
 ## Visualization Sample
 
 ![image]( https://github.com/gsmgla/Book_Recommendation_Analysis/blob/main/04%20Visualizations/popular_titles_barchart.png)
+
+Deck created in [Tableau](https://public.tableau.com/app/profile/greta.lawani/viz/3_10RockbusterStealthLLC/RockbusterCompetitivenessAnalysis)
