@@ -35,6 +35,10 @@ _Software_: Jupyter Notebooks, Tableau, Canva
 
 ## Visualization Sample
 
+![image]( https://github.com/gsmgla/Book_Recommendation_Analysis/blob/main/04%20Visualizations/book_ratings_country.png)
+
+![image]( https://github.com/gsmgla/Book_Recommendation_Analysis/blob/main/04%20Visualizations/reading_levels_age_group_ratings.png)
+
 ![image]( https://github.com/gsmgla/Book_Recommendation_Analysis/blob/main/04%20Visualizations/popular_titles_barchart.png)
 
 Deck created in Tableau [here](https://public.tableau.com/app/profile/greta.lawani/viz/BookRecommendationsMLRecommenderSystem/BookRecommendations) and Dashboard [here](https://public.tableau.com/app/profile/greta.lawani/viz/BookWiseMetricsDashboard/BookWise) 
